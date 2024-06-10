@@ -6,6 +6,7 @@ public class functions {
 
 
     }
+    //
 
     static void factorial(int number){
         int result=1;
