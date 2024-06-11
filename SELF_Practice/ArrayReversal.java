@@ -17,14 +17,22 @@ public class ArrayReversal {
         // for(int i: arr){
         //     System.out.println(i);
         // }
-
-        for(int i=0; i<arr.length; i++){
-            for(int j=arr.length; j>0; j++){
-
-                arr[i]==arr[j];
-
-            }
+        int i=0;
+        int n=arr.length-1;
+        while(i<n){
+            int temp=arr[i];
+            arr[i]= arr[n];
+            arr[n]=temp;;
+            i++;
+            n--;
         }
+        for (int j : arr) {
+            System.out.println(j);
+        }
+        
+        
+
+    
         
     }
 }
