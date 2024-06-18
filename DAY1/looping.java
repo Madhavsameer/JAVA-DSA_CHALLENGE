@@ -40,7 +40,21 @@ public class looping {
 
         }
 
-        //Reverse a given number
+        //factorial
+        int num=4;
+        int result=1;
+
+        if(num==1 || num==0){
+            System.out.println("Factorial is "+result);
+        }
+
+        else{
+
+        for(int k=num-1;k>=1; k--){
+            result=num*=k;
+        }
+        System.out.println("Factorials of the given number is "+result);
+    }
 
 
         
