@@ -5,7 +5,6 @@ public class Abstraction  extends AbstractClass {
     //it is done by abstract class and interface
 
     public static void main(String[] args) {
-
         Abstraction abs= new Abstraction();
         abs.show();
         abs.work();
