@@ -8,7 +8,7 @@ public class BinarySearch {
     int myArr[]= {10,15,12,17,22,11};
     Arrays.sort(myArr);
     BinarySearch(myArr, 11);
-        
+    
     }
 
     public static void BinarySearch(int arr[], int target){

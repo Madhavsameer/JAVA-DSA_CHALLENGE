@@ -5,7 +5,6 @@ public class functions {
         sumOfNumbers(10);
         
 
-
     }
     //
 
