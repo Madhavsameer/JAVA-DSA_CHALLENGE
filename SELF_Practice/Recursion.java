@@ -6,7 +6,6 @@ public class Recursion {
         System.out.println(factorial(5));
         System.out.println(sum(10));
         
-        
     }
 
     public static int factorial(int num){
