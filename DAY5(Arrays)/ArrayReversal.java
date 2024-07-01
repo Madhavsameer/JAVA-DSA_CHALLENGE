@@ -25,7 +25,6 @@ public class ArrayReversal {
             arr[end]=temp;
             start++;
             end--;
-
         }
         System.out.println("\n your array after reversal is");
         for(int i:arr){
