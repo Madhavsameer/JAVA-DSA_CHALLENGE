@@ -16,7 +16,6 @@ public class BinarySearch {
         int j=arr.length;
         while(i<j){
             int mid=(i+j)/2;
-
             if(arr[mid]==target){
                 System.out.println("Your target  "+target +" is found at index "+mid);
                 return;
