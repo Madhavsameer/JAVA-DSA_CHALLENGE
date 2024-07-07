@@ -15,12 +15,8 @@ public class LinearSearch {
                 System.out.println("Element found");
                 return true;
             }
-
-            
         }
         System.out.println("Element not found");
-
         return false;
-
     }
 }
