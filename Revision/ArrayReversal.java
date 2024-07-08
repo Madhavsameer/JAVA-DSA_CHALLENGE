@@ -13,7 +13,6 @@ public class ArrayReversal {
         reverseArray(myArr);
         
 
-
     }
 
     public static void reverseArray(int arr[]){
