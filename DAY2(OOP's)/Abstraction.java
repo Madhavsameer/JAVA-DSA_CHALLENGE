@@ -9,7 +9,6 @@ public class Abstraction  extends AbstractClass {
         abs.show();
         abs.work();
         abs.run();
-
         
         
     }
