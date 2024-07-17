@@ -9,7 +9,6 @@ public class ArrayReversal {
         int myArr[]={5,7,9,2,1};
 
         
-        
         reverseArray(myArr);
         
 
