@@ -6,6 +6,7 @@ public class PrintFactorial {
         System.out.println(factorial(5));
         
 
+
         
     }
 
