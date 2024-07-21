@@ -4,6 +4,7 @@ public class functions {
         factorial(5);
         sumOfNumbers(10);
         
+        
 
     }
     //
