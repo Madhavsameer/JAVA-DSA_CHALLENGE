@@ -4,6 +4,7 @@ public class QueueLearn {
 
         //Queue is a linear data structure that follows FIFO principle for doing operations whereas,
         //Priority queue works in a simple way but it follows ascending order
+
         
         // Queue <Integer> myQueue= new PriorityQueue<>(Collections.reverseOrder());//Priority ques in reverse 
        Queue <Integer> myQueue= new LinkedList<>();  //Normal queue using linkedlist because Queue is a constructor
