@@ -5,6 +5,7 @@ public class Car {
     //Encapsulation means wrapping up of data members and member function in a seperate class
     //Privately to secure the data
     public static void main(String[] args) {
+        
 
         Car cr= new Car();
         cr.carInfo();
